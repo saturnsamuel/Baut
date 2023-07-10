@@ -1,0 +1,87 @@
+{
+  "sections": {
+    "b57e3caf-0aac-4fef-92f7-fffee5961d2b": {
+      "type": "hero-animated",
+      "blocks": {
+        "template--16731482718432__b57e3caf-0aac-4fef-92f7-fffee5961d2b-1672823699b8a03cd8-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_8353.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_8353.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--16731482718432__b57e3caf-0aac-4fef-92f7-fffee5961d2b-1672823699b8a03cd8-0"
+      ],
+      "settings": {
+        "style": "gif",
+        "title": "A única com garantia para vida toda.",
+        "title_size": 80,
+        "subheading": "",
+        "link": "",
+        "link_text": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-bottom horizontal-center",
+        "desktop_size": 0,
+        "mobile_size": 0
+      }
+    },
+    "c07c8916-49ab-496c-957e-7ab0f1186725": {
+      "type": "advanced-content",
+      "blocks": {
+        "11f667d2-f5d9-4e81-9c3a-b488dfc30a60": {
+          "type": "liquid",
+          "settings": {
+            "code": "<p style=\"font-size:100%; font-weight:100px; padding:0px; line-height: 30px; margin-bottom: 0px; margin-top: 80px; margin-left: 30px; margin-right: 30px; text-align:center;\">Ter uma guia ANJO® significa elevar o seu padrão de qualidade e exigência com os produtos porque ela é única e totalmente diferente de tudo o que você conhece: além do design exclusivo e moderno, ela não arrebenta, não quebra, não entorta, não enferruja, por isso, ela também e tem garantia para vida!\n\n<br><br>\n\n<\/p>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "11f667d2-f5d9-4e81-9c3a-b488dfc30a60"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "alt": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "87862f56-384e-47db-8d7a-940dbf9baa8b": {
+      "type": "featured-collection-slider",
+      "settings": {
+        "title": "Guia de Corda Anjo Série 2.0",
+        "description": "",
+        "home_featured_products": "guiaparacachorrosanjo",
+        "per_row": "small",
+        "alt": false
+      }
+    },
+    "22b08f8d-2b60-451f-8fa4-a8702669658b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Continue Explorando",
+        "description": "",
+        "home_featured_products": "all",
+        "rows": 2,
+        "per_row_desktop": 3,
+        "per_row_mobile": "1",
+        "view_all": true,
+        "alt": false
+      }
+    }
+  },
+  "order": [
+    "b57e3caf-0aac-4fef-92f7-fffee5961d2b",
+    "c07c8916-49ab-496c-957e-7ab0f1186725",
+    "main",
+    "87862f56-384e-47db-8d7a-940dbf9baa8b",
+    "22b08f8d-2b60-451f-8fa4-a8702669658b"
+  ]
+}

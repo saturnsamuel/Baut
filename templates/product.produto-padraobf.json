@@ -1,0 +1,183 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": false,
+            "color_swatches": false
+          }
+        },
+        "3686be7f-8ea2-4fce-bbe2-d6b19971227f": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "truck",
+            "text": "Frete grátis acima de R$ 200,00"
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "package",
+            "text": "Troque em até 30 dias, sem sair de casa."
+          }
+        },
+        "c7b10945-3414-4cd0-b44e-f3c084a75b2d": {
+          "type": "size_chart",
+          "settings": {
+            "size_chart": "tabelabeija-flor"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": true
+          }
+        },
+        "f3d6d7b3-2e77-434b-a0d9-9dd33c1feffd": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "fd37ce43-0c35-43cb-b1e4-61e595e6ae74": {
+          "type": "tab",
+          "settings": {
+            "title": "Features",
+            "content": "",
+            "page": ""
+          }
+        },
+        "d605be51-b914-47ce-88d8-8bd8502fe12c": {
+          "type": "tab",
+          "settings": {
+            "title": "Tecnologias",
+            "content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "price",
+        "variant_picker",
+        "3686be7f-8ea2-4fce-bbe2-d6b19971227f",
+        "sales_point",
+        "c7b10945-3414-4cd0-b44e-f3c084a75b2d",
+        "buy_buttons",
+        "f3d6d7b3-2e77-434b-a0d9-9dd33c1feffd",
+        "fd37ce43-0c35-43cb-b1e4-61e595e6ae74",
+        "d605be51-b914-47ce-88d8-8bd8502fe12c"
+      ],
+      "custom_css": [
+        ".variant-input-wrap label.disabled {box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.1); color: #b6b6b6; border: 1px solid #d8d8d8; border-radius: 5px; color: black; background-color: #fff !important;}",
+        ".variant-input-wrap label {border: 1px solid #d8d8d8; border-radius: 5px; box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.1); color: black;}",
+        ".variant-input-wrap input[type=\"radio\"]:checked + label {border: 0; background-color: #48d597; color: white;}",
+        ".product-single__title,.tool-tip-trigger__title {color: #006271;}",
+        ".btn--full {border-radius: 10px;}"
+      ],
+      "settings": {
+        "product_image_size": "medium",
+        "product_image_type": "slider",
+        "thumbnail_height": "flexible",
+        "product_zoom_enable": true,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "blocks": {
+        "09a20e0d-eb24-4017-aba2-f4f384eddf53": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "fb67cdf5-977d-4689-8a87-ac62dccd3fc5": {
+          "type": "tab",
+          "settings": {
+            "title": "Consulte o Frete",
+            "content": "",
+            "page": "frete"
+          }
+        },
+        "bc774745-3c97-4c5b-bca2-8afcf7a261f4": {
+          "type": "tab",
+          "settings": {
+            "title": "Tabela de Tamanhos",
+            "content": "",
+            "page": "tabela-bf"
+          }
+        }
+      },
+      "block_order": [
+        "09a20e0d-eb24-4017-aba2-f4f384eddf53",
+        "fb67cdf5-977d-4689-8a87-ac62dccd3fc5",
+        "bc774745-3c97-4c5b-bca2-8afcf7a261f4"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Continue Explorando",
+        "related_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {}
+    },
+    "5a83e6b3-a542-46ca-801d-fce814959d7e": {
+      "type": "hero-animated",
+      "disabled": true,
+      "blocks": {
+        "template--16729514410208__5a83e6b3-a542-46ca-801d-fce814959d7e-1686855175868fc7b6-0": {
+          "type": "image",
+          "settings": {}
+        },
+        "template--16729514410208__5a83e6b3-a542-46ca-801d-fce814959d7e-1686855175868fc7b6-1": {
+          "type": "image",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "template--16729514410208__5a83e6b3-a542-46ca-801d-fce814959d7e-1686855175868fc7b6-0",
+        "template--16729514410208__5a83e6b3-a542-46ca-801d-fce814959d7e-1686855175868fc7b6-1"
+      ],
+      "settings": {
+        "style": "gif",
+        "title": "Make an\ninstant impression",
+        "title_size": 80,
+        "subheading": "With fading or GIF-style animated images",
+        "link": "",
+        "link_text": "Optional button",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "desktop_size": 0,
+        "mobile_size": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "sub",
+    "product-recommendations",
+    "collection-return",
+    "5a83e6b3-a542-46ca-801d-fce814959d7e"
+  ]
+}

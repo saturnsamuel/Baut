@@ -1,0 +1,64 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "Matriz"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Baut Roupas e Acessórios para Animais Ltda.<br\/>CNPJ: 40.299.391\/0001-01<br\/>Avenida Rio Branco, 26 - Sobreloja.<br\/>Centro. Rio de Janeiro\/RJ. 20090-001.<\/p>"
+          }
+        },
+        "93234009-f20d-4347-b5cf-5a24bd56e306": {
+          "type": "heading",
+          "settings": {
+            "title": "Contato"
+          }
+        },
+        "c5271a19-4912-4287-b8d7-52ff8a1a95fd": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Email: juntos@baut.com.br<br\/>Whastapp: (11) 91104-5132<br\/>Segunda à sexta-feira das 10:00 às 17:00 (Horário de Brasília).<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "93234009-f20d-4347-b5cf-5a24bd56e306",
+        "c5271a19-4912-4287-b8d7-52ff8a1a95fd"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "alt": false
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "title": "",
+        "show_phone": false,
+        "narrow_column": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich-text",
+    "form"
+  ]
+}

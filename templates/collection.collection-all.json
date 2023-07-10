@@ -1,0 +1,180 @@
+{
+  "sections": {
+    "b367f5bc-7a61-4f86-a9af-2c82afa7e98b": {
+      "type": "hero-animated",
+      "disabled": true,
+      "blocks": {
+        "template--16710950781152__b367f5bc-7a61-4f86-a9af-2c82afa7e98b-16728342556f9b68fb-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1-Baut_Logos_BautTagline-Horizontal-Main_7d6f9bae-c83a-43e2-a86b-b0d389d43c35.png",
+            "image_mobile": "shopify:\/\/shop_images\/1-Baut_Logos_BautTagline-Horizontal-Main_7d6f9bae-c83a-43e2-a86b-b0d389d43c35.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--16710950781152__b367f5bc-7a61-4f86-a9af-2c82afa7e98b-16728342556f9b68fb-0"
+      ],
+      "settings": {
+        "style": "gif",
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link": "",
+        "link_text": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "desktop_size": 0,
+        "mobile_size": 0
+      }
+    },
+    "collection-header": {
+      "type": "collection-header",
+      "disabled": true,
+      "settings": {
+        "collection_image_enable": true,
+        "description_enable": true
+      }
+    },
+    "collection-filters": {
+      "type": "collection-filters",
+      "disabled": true,
+      "settings": {
+        "enable_color_swatches": false,
+        "collection_sort_enable": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "per_row_desktop": 3,
+            "per_row_mobile": "1"
+          }
+        }
+      },
+      "block_order": [
+        "product_grid"
+      ],
+      "settings": {}
+    },
+    "faf2313a-2a99-4d18-903b-4db84426c880": {
+      "type": "hero-animated",
+      "blocks": {
+        "template--16762702495968__faf2313a-2a99-4d18-903b-4db84426c880-1676847023ea60fed6-0": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/teste_site19.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/teste_site19.jpg"
+          }
+        },
+        "template--16762702495968__faf2313a-2a99-4d18-903b-4db84426c880-1676847023ea60fed6-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NT-Site-01.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/NT-Site-01.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--16762702495968__faf2313a-2a99-4d18-903b-4db84426c880-1676847023ea60fed6-0",
+        "template--16762702495968__faf2313a-2a99-4d18-903b-4db84426c880-1676847023ea60fed6-1"
+      ],
+      "custom_css": [
+        "div.hero__subtitle {font-size: 12px; padding-top: 5px; margin-bottom: -25px;}",
+        "a.btn--inverse {margin-bottom: -45px; margin-right: 30px; border-width: 1px; padding-top: 2px; padding-bottom: 4px; padding-right: 16px; padding-left: 16px;}"
+      ],
+      "settings": {
+        "style": "gif",
+        "title": "",
+        "title_size": 30,
+        "subheading": "Bowl Portátil",
+        "link": "",
+        "link_text": "Comprar",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-left",
+        "desktop_size": 0,
+        "mobile_size": 0
+      }
+    },
+    "7891dd2d-b311-4de8-bb54-bc806e0d8d74": {
+      "type": "hero-animated",
+      "blocks": {
+        "31340447-7911-4505-affb-c8deee12d57a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CB-Site-01.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/CB-Site-01.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "31340447-7911-4505-affb-c8deee12d57a"
+      ],
+      "custom_css": [
+        "div.hero__subtitle {font-size: 12px; padding-top: 5px; margin-bottom: -25px; margin-right: 130px;}",
+        "a.btn--inverse {margin-bottom: -45px; margin-right: 30px; border-width: 1px; padding-top: 2px; padding-bottom: 4px; padding-right: 16px; padding-left: 16px;}"
+      ],
+      "settings": {
+        "style": "gif",
+        "title": "",
+        "title_size": 30,
+        "subheading": "Anoraque para chuva, vento, lama e neve.",
+        "link": "",
+        "link_text": "Comprar",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-left",
+        "desktop_size": 0,
+        "mobile_size": 0
+      }
+    },
+    "6f181297-99d9-42f3-bf43-493ad6c41e5f": {
+      "type": "hero-animated",
+      "blocks": {
+        "template--16762702495968__6f181297-99d9-42f3-bf43-493ad6c41e5f-16769580556ba7caa3-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BF-Site-01.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/BF-Site-01.jpg"
+          }
+        },
+        "template--16762702495968__6f181297-99d9-42f3-bf43-493ad6c41e5f-16769580556ba7caa3-1": {
+          "type": "image",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "template--16762702495968__6f181297-99d9-42f3-bf43-493ad6c41e5f-16769580556ba7caa3-0",
+        "template--16762702495968__6f181297-99d9-42f3-bf43-493ad6c41e5f-16769580556ba7caa3-1"
+      ],
+      "custom_css": [
+        "div.hero__subtitle {font-size: 12px; padding-top: 5px; margin-bottom: -25px; margin-left: 160px; text-align: right;}",
+        "a.btn--inverse {margin-bottom: -45px; margin-left: 30px; border-width: 1px; padding-top: 2px; padding-bottom: 4px; padding-left: 16px; padding-right: 16px;}"
+      ],
+      "settings": {
+        "style": "gif",
+        "title": "",
+        "title_size": 80,
+        "subheading": "Capa de chuva impermeável e respirável.",
+        "link": "",
+        "link_text": "Comprar",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-left",
+        "desktop_size": 0,
+        "mobile_size": 0
+      }
+    }
+  },
+  "order": [
+    "b367f5bc-7a61-4f86-a9af-2c82afa7e98b",
+    "collection-header",
+    "collection-filters",
+    "main-collection",
+    "faf2313a-2a99-4d18-903b-4db84426c880",
+    "7891dd2d-b311-4de8-bb54-bc806e0d8d74",
+    "6f181297-99d9-42f3-bf43-493ad6c41e5f"
+  ]
+}

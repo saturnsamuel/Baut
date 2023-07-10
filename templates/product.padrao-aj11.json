@@ -1,0 +1,268 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "51a71106-0df6-44a0-a439-983d56726875": {
+          "type": "size_chart",
+          "settings": {
+            "size_chart": "tabela-aj"
+          }
+        },
+        "f32879d1-1e96-4bf4-85a1-4c804cf72380": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "truck",
+            "text": "{{ product.metafields.custom.basic_nav_info.value.msg_frete.value }}"
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "package",
+            "text": "{{ product.metafields.custom.basic_nav_info.value.msg_troca.value }}"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "c4421bcc-e4a0-49e9-8cd8-4f1525651214": {
+          "type": "tab",
+          "settings": {
+            "title": "Consulte o frete",
+            "content": "",
+            "page": "frete"
+          }
+        }
+      },
+      "block_order": [
+        "price",
+        "variant_picker",
+        "51a71106-0df6-44a0-a439-983d56726875",
+        "f32879d1-1e96-4bf4-85a1-4c804cf72380",
+        "sales_point",
+        "buy_buttons",
+        "description",
+        "c4421bcc-e4a0-49e9-8cd8-4f1525651214"
+      ],
+      "settings": {
+        "product_image_size": "large",
+        "product_image_type": "slider",
+        "thumbnail_height": "flexible",
+        "product_zoom_enable": false,
+        "enable_video_looping": false,
+        "product_video_style": "muted",
+        "sku_enable": false
+      }
+    },
+    "8e21121b-2e1d-4b6d-b686-313f5d31a1e5": {
+      "type": "advanced-content",
+      "disabled": true,
+      "blocks": {
+        "template--16829792387296__8e21121b-2e1d-4b6d-b686-313f5d31a1e5-16854698343fdfeccc-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Asset_23.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "top-middle"
+          }
+        }
+      },
+      "block_order": [
+        "template--16829792387296__8e21121b-2e1d-4b6d-b686-313f5d31a1e5-16854698343fdfeccc-0"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "alt": false
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "blocks": {
+        "b52cf621-b7c0-41ea-b868-b95a00629a6f": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "1bd12782-aae8-4242-9da1-0163cc27bf97": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Consulte o Frete",
+            "content": "",
+            "page": "frete"
+          }
+        }
+      },
+      "block_order": [
+        "b52cf621-b7c0-41ea-b868-b95a00629a6f",
+        "1bd12782-aae8-4242-9da1-0163cc27bf97"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "text-and-image": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Mosq-TheOrange_90979841-0ac8-4a49-9074-1cd703cf636f.jpg",
+        "subtitle": "LINDA, LEVE E NÃO ARREBENTA",
+        "title": "4X MAIS LEVE E AGUENTA 500KG",
+        "text": "<p>O Mosquetão de alumínio da guia ANJO® é <strong>leve, resistente e não enferruja. Ele pesa apenas 22g<\/strong> e sua resistência é de <strong>500kg<\/strong>.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "right",
+        "alt": false
+      }
+    },
+    "text-and-image2": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cord-TheOrange_211ce10f-554f-4a92-bb39-b021d89098b2.jpg",
+        "subtitle": "CORDA DE ESCALADA",
+        "title": "RESISTÊNCIA DURABILIDADE E PRATICIDADE",
+        "text": "<p><strong>Leve, resistente, com toque macio e fácil de lavar <\/strong>porque<strong> <\/strong>é  feita com <strong>fios de nylon<\/strong>, entrelaços para atingir pelo menos <strong>1.500Kg<\/strong> de resistência em poucos milímetros de diâmetro.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "left",
+        "alt": false
+      }
+    },
+    "5b744a5d-d8fb-47d6-a36e-61955bc5c56e": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cap-TheOrange_0e4f72e3-51f6-403d-bf9c-5e8eac837934.jpg",
+        "subtitle": "CÁPSULAS DE ALUMÍNIO",
+        "title": "FEITA PARA DURAR",
+        "text": "<p><strong>Prolongam a durabilidade<\/strong> da guia ANJO® porque <strong>protegem <\/strong>os pontos com maior tensionamento <strong> da abrasão <\/strong>da dia a dia.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "right",
+        "alt": false
+      }
+    },
+    "d0bcf5e6-01b3-42e3-badb-e4bb4b7ff590": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--16710951174368__d0bcf5e6-01b3-42e3-badb-e4bb4b7ff590-16722509646eda79cf-0": {
+          "type": "text_block",
+          "settings": {
+            "icon": "shield",
+            "title": "Nunca Arrebenta",
+            "text": "<p>Ele pode ser muito grande, muito forte, puxar muito ou a combinação de tudo isso mas você não precisa mais se preocupar: <strong>uma guia ANJO® nunca arrebenta.<\/strong><\/p>"
+          }
+        },
+        "template--16710951174368__d0bcf5e6-01b3-42e3-badb-e4bb4b7ff590-16722509646eda79cf-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "ribbon",
+            "title": "Resistência comprovada",
+            "text": "<p>Todos os lotes de produção da guia ANJO® passam por inspeção e <strong>teste de tensão<\/strong>, realizado por laboratórios internacionais e independentes<strong>.<\/strong><\/p>"
+          }
+        },
+        "template--16710951174368__d0bcf5e6-01b3-42e3-badb-e4bb4b7ff590-16722509646eda79cf-2": {
+          "type": "text_block",
+          "settings": {
+            "icon": "plant",
+            "title": "Long Life Relationship",
+            "text": "<p>Nossos produtos são feitos para durar muito tempo porque acreditamos que consumir de forma consciente é a melhor maneira de ajudar a preservar o planeta: <strong>produtos com longo ciclo de vida são usados por muitos anos e evitam o descarte desnecessário.<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16710951174368__d0bcf5e6-01b3-42e3-badb-e4bb4b7ff590-16722509646eda79cf-0",
+        "template--16710951174368__d0bcf5e6-01b3-42e3-badb-e4bb4b7ff590-16722509646eda79cf-1",
+        "template--16710951174368__d0bcf5e6-01b3-42e3-badb-e4bb4b7ff590-16722509646eda79cf-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#ff6a14",
+        "button_label": "",
+        "button_link": "",
+        "alt": false
+      }
+    },
+    "2f16a2d1-67c6-43c0-945c-b95f251bdd2e": {
+      "type": "featured-collection-slider",
+      "settings": {
+        "title": "{{ product.metafields.custom.basic_nav_info.value.recommendations_header.value }}",
+        "description": "",
+        "home_featured_products": "recomendacoes-anjo®",
+        "per_row": "small",
+        "alt": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "product_recommendations_heading": "Continue Explorando",
+        "related_count": 14
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {}
+    },
+    "167486315189087995": {
+      "type": "apps",
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "8e21121b-2e1d-4b6d-b686-313f5d31a1e5",
+    "sub",
+    "text-and-image",
+    "text-and-image2",
+    "5b744a5d-d8fb-47d6-a36e-61955bc5c56e",
+    "d0bcf5e6-01b3-42e3-badb-e4bb4b7ff590",
+    "2f16a2d1-67c6-43c0-945c-b95f251bdd2e",
+    "product-recommendations",
+    "collection-return",
+    "167486315189087995"
+  ]
+}

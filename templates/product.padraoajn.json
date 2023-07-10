@@ -1,0 +1,205 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": false,
+            "color_swatches": false
+          }
+        },
+        "9c4ab1cd-fa87-4423-b6d8-f6b9cabb07a9": {
+          "type": "size_chart",
+          "settings": {
+            "size_chart": ""
+          }
+        },
+        "8f08c313-4697-4d96-962a-9dbeddcceb04": {
+          "type": "sales_point",
+          "disabled": true,
+          "settings": {
+            "icon": "ribbon",
+            "text": "Oferta de lançamento: 20% OFF."
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "package",
+            "text": "Troque em até 30 dias, sem sair de casa."
+          }
+        },
+        "2b8625d5-5a0e-4433-9635-2fe260e557ae": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "truck",
+            "text": "Frete grátis acima de R$ 200,00"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false
+          }
+        },
+        "21ad86b2-a0ef-4f82-b408-7db8a154890f": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "f32775ee-6226-4681-9d56-aa65bc75a2ae": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Consulte o Frete",
+            "content": "",
+            "page": "frete"
+          }
+        }
+      },
+      "block_order": [
+        "price",
+        "variant_picker",
+        "9c4ab1cd-fa87-4423-b6d8-f6b9cabb07a9",
+        "8f08c313-4697-4d96-962a-9dbeddcceb04",
+        "sales_point",
+        "2b8625d5-5a0e-4433-9635-2fe260e557ae",
+        "buy_buttons",
+        "21ad86b2-a0ef-4f82-b408-7db8a154890f",
+        "f32775ee-6226-4681-9d56-aa65bc75a2ae"
+      ],
+      "settings": {
+        "product_image_size": "large",
+        "product_image_type": "stacked",
+        "thumbnail_height": "flexible",
+        "product_zoom_enable": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
+      }
+    },
+    "425760b4-b4e2-4f5e-ae1a-ed2118c98b1e": {
+      "type": "advanced-content",
+      "disabled": true,
+      "blocks": {
+        "template--16710951108832__425760b4-b4e2-4f5e-ae1a-ed2118c98b1e-1672657412449c8ade-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Asset_36.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16710951108832__425760b4-b4e2-4f5e-ae1a-ed2118c98b1e-1672657412449c8ade-0"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "alt": false
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "09a20e0d-eb24-4017-aba2-f4f384eddf53": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "fb67cdf5-977d-4689-8a87-ac62dccd3fc5": {
+          "type": "tab",
+          "settings": {
+            "title": "Consulte o Frete",
+            "content": "",
+            "page": "frete"
+          }
+        }
+      },
+      "block_order": [
+        "09a20e0d-eb24-4017-aba2-f4f384eddf53",
+        "fb67cdf5-977d-4689-8a87-ac62dccd3fc5"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "edfec95d-1fe7-4c82-8db0-97697e86e03a": {
+      "type": "hero-animated",
+      "blocks": {
+        "template--16758528671968__edfec95d-1fe7-4c82-8db0-97697e86e03a-1675984988b996233a-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/site-temp-03.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/site-temp-03.jpg"
+          }
+        },
+        "template--16758528671968__edfec95d-1fe7-4c82-8db0-97697e86e03a-1675984988b996233a-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/site-temp-02.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/site-temp-02.jpg"
+          }
+        },
+        "9dcb62cb-8d66-4ba0-996c-223292a3c87d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/site-temp-04.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/site-temp-04.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--16758528671968__edfec95d-1fe7-4c82-8db0-97697e86e03a-1675984988b996233a-0",
+        "template--16758528671968__edfec95d-1fe7-4c82-8db0-97697e86e03a-1675984988b996233a-1",
+        "9dcb62cb-8d66-4ba0-996c-223292a3c87d"
+      ],
+      "settings": {
+        "style": "gif",
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link": "",
+        "link_text": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "desktop_size": 0,
+        "mobile_size": 0
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Continue Explorando",
+        "related_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {}
+    }
+  },
+  "order": [
+    "main",
+    "425760b4-b4e2-4f5e-ae1a-ed2118c98b1e",
+    "sub",
+    "edfec95d-1fe7-4c82-8db0-97697e86e03a",
+    "product-recommendations",
+    "collection-return"
+  ]
+}

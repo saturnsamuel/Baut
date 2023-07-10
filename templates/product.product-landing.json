@@ -1,0 +1,620 @@
+{
+  "sections": {
+    "0c99fa2e-3874-412a-8c35-cd9de38bfe7a": {
+      "type": "hero-animated",
+      "blocks": {
+        "template--16710951174368__0c99fa2e-3874-412a-8c35-cd9de38bfe7a-1674863171bccbd752-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BT-AJ2-AD-ATW-NewColorfullVIS-V03-CoverTheOrange-01-9x16-1080px.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/BT-AJ2-AD-ATW-NewColorfullVIS-V03-CoverTheOrange-01-9x16-1080px.jpg"
+          }
+        },
+        "template--16710951174368__0c99fa2e-3874-412a-8c35-cd9de38bfe7a-1674863171bccbd752-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BT-AJ2-AD-ATW-NewColorfullVIS-V03-CoverTheOrange-02-9x16-1080px.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/BT-AJ2-AD-ATW-NewColorfullVIS-V03-CoverTheOrange-02-9x16-1080px.jpg"
+          }
+        },
+        "12f0e858-0b45-4cb0-9b03-acabef8e4d60": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BT-AJ2-AD-ATW-NewColorfullVIS-V03-CoverTheOrange-03-9x16-1080px.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/BT-AJ2-AD-ATW-NewColorfullVIS-V03-CoverTheOrange-03-9x16-1080px.jpg"
+          }
+        },
+        "d29c6033-6ff2-4324-9c1a-857704f16b49": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BT-AJ2-AD-ATW-NewColorfullVIS-V03-CoverTheOrange-04-9x16-1080px.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/BT-AJ2-AD-ATW-NewColorfullVIS-V03-CoverTheOrange-04-9x16-1080px.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--16710951174368__0c99fa2e-3874-412a-8c35-cd9de38bfe7a-1674863171bccbd752-0",
+        "template--16710951174368__0c99fa2e-3874-412a-8c35-cd9de38bfe7a-1674863171bccbd752-1",
+        "12f0e858-0b45-4cb0-9b03-acabef8e4d60",
+        "d29c6033-6ff2-4324-9c1a-857704f16b49"
+      ],
+      "settings": {
+        "style": "gif",
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link": "",
+        "link_text": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "desktop_size": 0,
+        "mobile_size": 0
+      }
+    },
+    "af961d7d-d60d-4deb-a4d2-db2b2dea2e3a": {
+      "type": "advanced-content",
+      "disabled": true,
+      "blocks": {
+        "6656affe-fc61-4736-a4e9-3bf34d099a2d": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "code": "<h1 style=\"font-size:140%; font-weight:100px; padding:0px; line-height: 27px; margin-bottom: 0px; margin-top: 60px; margin-left: 10px; margin-right: 10px; text-align:center;\">NÃO É MAIS UMA GUIA BARATA.<\/h1><br>\n\n<h1 style=\"font-size:140%; font-weight:100px; padding:0px; line-height: 27px; margin-bottom: 0px; margin-top: 0px; margin-left: 10px; margin-right: 10px; text-align:center;\">Uma guia ANJO® é uma demonstração de cuidado e respeito pelo bem-estar do seu cachorro.<\/h1>\n\n<p style=\"font-size:100%; font-weight: regular; line-height: 28px; margin-bottom: 100px; margin-top: 20px; margin-left: 5px; margin-right: 5px; text-align:center;\"> A única realmente segura e confortável porque  é <strong> muito mais leve<\/strong> e <strong> aguenta até 500kg.<\/strong><\/p>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        },
+        "26f51422-6ab9-4b53-8b7e-82a23259a985": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/capa.jpg",
+            "link": "",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "6656affe-fc61-4736-a4e9-3bf34d099a2d",
+        "26f51422-6ab9-4b53-8b7e-82a23259a985"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "alt": false
+      }
+    },
+    "text-and-image": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Mosq-TheOrange_90979841-0ac8-4a49-9074-1cd703cf636f.jpg",
+        "subtitle": "LINDA, LEVE E NÃO ARREBENTA",
+        "title": "4X MAIS LEVE E AGUENTA 500KG",
+        "text": "<p>O Mosquetão de alumínio da guia ANJO® é <strong>leve, resistente e não enferruja. Ele pesa apenas 22g<\/strong> e sua resistência é de <strong>500kg<\/strong>.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "right",
+        "alt": false
+      }
+    },
+    "text-and-image2": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cord-TheOrange_211ce10f-554f-4a92-bb39-b021d89098b2.jpg",
+        "subtitle": "CORDA DE ESCALADA",
+        "title": "RESISTÊNCIA DURABILIDADE E PRATICIDADE",
+        "text": "<p><strong>Leve, resistente, com toque macio e fácil de lavar <\/strong>porque<strong> <\/strong>é  feita com <strong>fios de nylon<\/strong>, entrelaços para atingir pelo menos <strong>1.500Kg<\/strong> de resistência em poucos milímetros de diâmetro.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "left",
+        "alt": false
+      }
+    },
+    "5b744a5d-d8fb-47d6-a36e-61955bc5c56e": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cap-TheOrange_0e4f72e3-51f6-403d-bf9c-5e8eac837934.jpg",
+        "subtitle": "CÁPSULAS DE ALUMÍNIO",
+        "title": "FEITA PARA DURAR",
+        "text": "<p><strong>Prolongam a durabilidade<\/strong> da guia ANJO® porque <strong>protegem <\/strong>os pontos com maior tensionamento <strong> da abrasão <\/strong>da dia a dia.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "right",
+        "alt": false
+      }
+    },
+    "e108f667-5d60-42cf-a957-63ef475f4771": {
+      "type": "hero-animated",
+      "disabled": true,
+      "blocks": {
+        "template--16710951174368__e108f667-5d60-42cf-a957-63ef475f4771-167217423705b2f76e-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BT-AJ2-AD-ATW-NewColorfullVIS-V03-CoverTheOrange-4x5-4000px.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/BT-AJ2-AD-ATW-NewColorfullVIS-V03-CoverTheOrange-4x5-4000px.jpg"
+          }
+        },
+        "template--16710951174368__e108f667-5d60-42cf-a957-63ef475f4771-167217423705b2f76e-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BT-AJ2-AD-ATW-NewColorfullVIS-V03-Yellow-4x5-4000px.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/BT-AJ2-AD-ATW-NewColorfullVIS-V03-Yellow-4x5-4000px.jpg"
+          }
+        },
+        "d42b4879-a2d1-459b-a8b3-29ff40ad7c60": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BT-AJ2-AD-ATW-NewColorfullVIS-V03-Purple-4x5-4000px.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/BT-AJ2-AD-ATW-NewColorfullVIS-V03-Purple-4x5-4000px.jpg"
+          }
+        },
+        "17585466-95ff-4a38-b756-84e051e477a5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BT-AJ2-AD-ATW-NewColorfullVIS-V03-Green-4x5-4000px.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/BT-AJ2-AD-ATW-NewColorfullVIS-V03-Green-4x5-4000px.jpg"
+          }
+        },
+        "de4cdccb-9792-498d-8457-29537c044ada": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BT-AJ2-AD-ATW-NewColorfullVIS-V03-Blue-4x5-4000px.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/BT-AJ2-AD-ATW-NewColorfullVIS-V03-Blue-4x5-4000px.jpg"
+          }
+        },
+        "b6baec8f-d318-4e35-a14e-a96f4611831d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BT-AJ2-AD-ATW-NewColorfullVIS-V03-Black-4x5-4000px.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/BT-AJ2-AD-ATW-NewColorfullVIS-V03-Black-4x5-4000px.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--16710951174368__e108f667-5d60-42cf-a957-63ef475f4771-167217423705b2f76e-0",
+        "template--16710951174368__e108f667-5d60-42cf-a957-63ef475f4771-167217423705b2f76e-1",
+        "d42b4879-a2d1-459b-a8b3-29ff40ad7c60",
+        "17585466-95ff-4a38-b756-84e051e477a5",
+        "de4cdccb-9792-498d-8457-29537c044ada",
+        "b6baec8f-d318-4e35-a14e-a96f4611831d"
+      ],
+      "settings": {
+        "style": "gif",
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link": "",
+        "link_text": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "desktop_size": 0,
+        "mobile_size": 0
+      }
+    },
+    "179192d7-de68-4993-90c8-215a89bec51c": {
+      "type": "featured-collection-slider",
+      "settings": {
+        "title": "Guia de corda Anjo® Série 2.0",
+        "description": "",
+        "home_featured_products": "guiaparacachorrosanjo",
+        "per_row": "small",
+        "alt": false
+      }
+    },
+    "72b87572-3d96-4e43-92e5-91717a8a3685": {
+      "type": "hero-animated",
+      "blocks": {
+        "template--16710951174368__72b87572-3d96-4e43-92e5-91717a8a3685-1672802339a8a52111-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_8682-2.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_8682-2.jpg"
+          }
+        },
+        "72cfe18c-9eac-47e1-b88d-3e003d170b5a": {
+          "type": "image",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "template--16710951174368__72b87572-3d96-4e43-92e5-91717a8a3685-1672802339a8a52111-0",
+        "72cfe18c-9eac-47e1-b88d-3e003d170b5a"
+      ],
+      "settings": {
+        "style": "fading",
+        "title": "Muito\nMais Leve",
+        "title_size": 80,
+        "subheading": "",
+        "link": "",
+        "link_text": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-bottom horizontal-left",
+        "desktop_size": 0,
+        "mobile_size": 0
+      }
+    },
+    "a6fd8916-4339-4ec6-ab4a-feb1df3e7ac4": {
+      "type": "hero-video",
+      "disabled": true,
+      "settings": {
+        "title": "A melhor guia",
+        "title_size": 80,
+        "subheading": "para todos os momentos juntos!",
+        "link_text": "Assistir",
+        "link": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/96a4012e0b854673a97a32a218c44e27.mp4",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/96a4012e0b854673a97a32a218c44e27.mp4",
+        "section_height": "650px",
+        "mobile_height": "500px"
+      }
+    },
+    "d0bcf5e6-01b3-42e3-badb-e4bb4b7ff590": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--16710951174368__d0bcf5e6-01b3-42e3-badb-e4bb4b7ff590-16722509646eda79cf-0": {
+          "type": "text_block",
+          "settings": {
+            "icon": "shield",
+            "title": "Nunca Arrebenta",
+            "text": "<p>Ele pode ser muito grande, muito forte, puxar muito ou a combinação de tudo isso mas você não precisa mais se preocupar: <strong>uma guia ANJO® nunca arrebenta.<\/strong><\/p>"
+          }
+        },
+        "template--16710951174368__d0bcf5e6-01b3-42e3-badb-e4bb4b7ff590-16722509646eda79cf-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "ribbon",
+            "title": "Resistência comprovada",
+            "text": "<p>Todos os lotes de produção da guia ANJO® passam por inspeção e <strong>teste de tensão<\/strong>, realizado por laboratórios internacionais e independentes<strong>.<\/strong><\/p>"
+          }
+        },
+        "template--16710951174368__d0bcf5e6-01b3-42e3-badb-e4bb4b7ff590-16722509646eda79cf-2": {
+          "type": "text_block",
+          "settings": {
+            "icon": "plant",
+            "title": "Long Life Relationship",
+            "text": "<p>Nossos produtos são feitos para durar muito tempo porque acreditamos que consumir de forma consciente é a melhor maneira de ajudar a preservar o planeta: <strong>produtos com longo ciclo de vida são usados por muitos anos e evitam o descarte desnecessário.<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16710951174368__d0bcf5e6-01b3-42e3-badb-e4bb4b7ff590-16722509646eda79cf-0",
+        "template--16710951174368__d0bcf5e6-01b3-42e3-badb-e4bb4b7ff590-16722509646eda79cf-1",
+        "template--16710951174368__d0bcf5e6-01b3-42e3-badb-e4bb4b7ff590-16722509646eda79cf-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#ff6a14",
+        "button_label": "",
+        "button_link": "",
+        "alt": false
+      }
+    },
+    "a6cc11a9-5d4e-4d9d-b95b-490635ec7240": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "template--16710951174368__a6cc11a9-5d4e-4d9d-b95b-490635ec7240-1672824667444c5c24-0": {
+          "type": "image",
+          "settings": {
+            "title": "Leve e Resistente",
+            "title_size": 96,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/IMG_8353_94104e35-0694-4376-b8f5-aacfa0bb2b2d.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_8353_94104e35-0694-4376-b8f5-aacfa0bb2b2d.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--16710951174368__a6cc11a9-5d4e-4d9d-b95b-490635ec7240-1672824667444c5c24-0"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7
+      }
+    },
+    "08669576-6b29-4564-9951-aba3d2af8ebd": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "template--16710951174368__08669576-6b29-4564-9951-aba3d2af8ebd-167282068748506c65-0": {
+          "type": "image",
+          "settings": {
+            "title": "Garantia Ilimitada",
+            "title_size": 100,
+            "subheading": "Tranquilidade, conforto e total segurança para vida toda.",
+            "link": "shopify:\/\/pages\/garantia-ilimitada",
+            "link_text": "Saiba Mais",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/AB-Bali-Lifestyle-AJ-01-9x16-1125x1989px-V01.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/AB-Bali-Lifestyle-AJ-01-9x16-1125x1989px-V01.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--16710951174368__08669576-6b29-4564-9951-aba3d2af8ebd-167282068748506c65-0"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7
+      }
+    },
+    "3afb8b78-c58b-4f3b-ba99-f8c97dffbaf0": {
+      "type": "countdown",
+      "disabled": true,
+      "blocks": {
+        "template--16710951174368__3afb8b78-c58b-4f3b-ba99-f8c97dffbaf0-167282663390e792ad-0": {
+          "type": "content",
+          "settings": {
+            "heading": "30% OFF",
+            "heading_size": "h1",
+            "text": "<p><strong>#FLASHPROMO até às 22h.<\/strong><\/p>",
+            "content_alignment": "center"
+          }
+        },
+        "template--16710951174368__3afb8b78-c58b-4f3b-ba99-f8c97dffbaf0-167282663390e792ad-1": {
+          "type": "timer",
+          "disabled": true,
+          "settings": {
+            "year": "2023",
+            "month": "01",
+            "day": "4",
+            "hour": "12",
+            "minute": "00",
+            "hide_timer": false,
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16710951174368__3afb8b78-c58b-4f3b-ba99-f8c97dffbaf0-167282663390e792ad-0",
+        "template--16710951174368__3afb8b78-c58b-4f3b-ba99-f8c97dffbaf0-167282663390e792ad-1"
+      ],
+      "settings": {
+        "layout": "hero",
+        "full_width": true,
+        "text_color": "#ffffff",
+        "background_color": "#ff6a14",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "disabled": true,
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": true
+          }
+        },
+        "51a71106-0df6-44a0-a439-983d56726875": {
+          "type": "size_chart",
+          "disabled": true,
+          "settings": {
+            "size_chart": "medidasbeija-flor"
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "package",
+            "text": "Troque em até 30 dias, sem sair de casa."
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false
+          }
+        },
+        "c4421bcc-e4a0-49e9-8cd8-4f1525651214": {
+          "type": "tab",
+          "settings": {
+            "title": "Consulte o frete",
+            "content": "",
+            "page": "frete"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        }
+      },
+      "block_order": [
+        "price",
+        "variant_picker",
+        "51a71106-0df6-44a0-a439-983d56726875",
+        "sales_point",
+        "buy_buttons",
+        "c4421bcc-e4a0-49e9-8cd8-4f1525651214",
+        "description"
+      ],
+      "settings": {
+        "product_image_size": "large",
+        "product_image_type": "slider",
+        "thumbnail_height": "flexible",
+        "product_zoom_enable": true,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
+      }
+    },
+    "6a88676c-a9c8-49e8-9b7a-ad92828fdf02": {
+      "type": "advanced-content",
+      "disabled": true,
+      "blocks": {
+        "b0056ebd-1a76-4211-8134-f183951a7505": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "b0056ebd-1a76-4211-8134-f183951a7505"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "alt": false
+      }
+    },
+    "3af51bf0-4e27-49d0-859b-af3c95607576": {
+      "type": "testimonials",
+      "disabled": true,
+      "blocks": {
+        "template--16710951174368__3af51bf0-4e27-49d0-859b-af3c95607576-16722509649f422ba3-0": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>Quando usei a guia Anjo pela primeira vez, pensei: como permiti que  elas usassem algo tão pesado no pescoço sem ao menos me questionar?<\/p>",
+            "author": "Rafaela Carvalho"
+          }
+        },
+        "template--16710951174368__3af51bf0-4e27-49d0-859b-af3c95607576-16722509649f422ba3-1": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>A guia Anjo e os produtos da Baut mudaram completamente a minha referência de qualidade.<\/p>",
+            "author": "Leandro Lima"
+          }
+        },
+        "59c093d7-b3e5-4472-ba9e-b117ba3c2bdc": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>Uso a Guia Anjo a mais de um ano na minha Rottweiler de 40kg que  consegue arrastar mais de 100kg e já estourou uma guia barata.<\/p>",
+            "author": "Nicolau Henrique Trevisan"
+          }
+        },
+        "52af9e20-ad7a-4c30-a180-85f5d18240ee": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>Além de lindas, são tão leves  que só entendi o que era conforto depois que comecei a usar as minhas guias Anjo.<\/p>",
+            "author": "Murillo Vianna"
+          }
+        },
+        "c2972696-a334-4f10-8706-634771baec05": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>Mosquetão de alumínio incrivelmente leve, prático e gostoso de manusear. Muito resistentes e “lavou tá nova” - impressionante! Os fios não soltam, altíssima qualidade.<\/p>",
+            "author": "Veronica Garcia"
+          }
+        },
+        "30a43f26-be2c-486f-a3e5-b9fc1779d404": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>Gente, essa guia é demais! Além de muito linda, é leve e resistente, estamos arrasando com ela nos passeios do Thor, super recomendo!!<\/p>",
+            "author": "Thaisa Bachmann"
+          }
+        }
+      },
+      "block_order": [
+        "template--16710951174368__3af51bf0-4e27-49d0-859b-af3c95607576-16722509649f422ba3-0",
+        "template--16710951174368__3af51bf0-4e27-49d0-859b-af3c95607576-16722509649f422ba3-1",
+        "59c093d7-b3e5-4472-ba9e-b117ba3c2bdc",
+        "52af9e20-ad7a-4c30-a180-85f5d18240ee",
+        "c2972696-a334-4f10-8706-634771baec05",
+        "30a43f26-be2c-486f-a3e5-b9fc1779d404"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "round_images": true,
+        "alt": false
+      }
+    },
+    "d79f08e2-18ee-4d9a-9c85-7dc1b65d84ee": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "description": "",
+        "home_featured_products": "guiaparacachorrosanjo",
+        "rows": 4,
+        "per_row_desktop": 4,
+        "per_row_mobile": "2-flush",
+        "view_all": false,
+        "alt": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Continue Explorando",
+        "related_count": 14
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {}
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "167486315189087995": {
+      "type": "apps",
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "0c99fa2e-3874-412a-8c35-cd9de38bfe7a",
+    "af961d7d-d60d-4deb-a4d2-db2b2dea2e3a",
+    "text-and-image",
+    "text-and-image2",
+    "5b744a5d-d8fb-47d6-a36e-61955bc5c56e",
+    "e108f667-5d60-42cf-a957-63ef475f4771",
+    "179192d7-de68-4993-90c8-215a89bec51c",
+    "72b87572-3d96-4e43-92e5-91717a8a3685",
+    "a6fd8916-4339-4ec6-ab4a-feb1df3e7ac4",
+    "d0bcf5e6-01b3-42e3-badb-e4bb4b7ff590",
+    "a6cc11a9-5d4e-4d9d-b95b-490635ec7240",
+    "08669576-6b29-4564-9951-aba3d2af8ebd",
+    "3afb8b78-c58b-4f3b-ba99-f8c97dffbaf0",
+    "main",
+    "6a88676c-a9c8-49e8-9b7a-ad92828fdf02",
+    "3af51bf0-4e27-49d0-859b-af3c95607576",
+    "d79f08e2-18ee-4d9a-9c85-7dc1b65d84ee",
+    "product-recommendations",
+    "collection-return",
+    "sub",
+    "167486315189087995"
+  ]
+}

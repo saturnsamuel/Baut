@@ -1,0 +1,59 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "title": "#DESCOBRIR\n#APROVEITAR\n#EXPLORAR\nA VIDA JUNTOS",
+            "title_size": 57,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/LF_Brand_EXT_PedraDoCoracao_AleDogs-4x5_1080px_6a25c263-327b-4f88-a609-087dc6418f2f.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/LF_Brand_EXT_PedraDoCoracao_AleDogs-4x5_1080px_6a25c263-327b-4f88-a609-087dc6418f2f.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7
+      }
+    },
+    "634ece3d-2e72-4aa5-b5d1-f67f991f1ce5": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/LF_Brand_EXT_NinaAle-4x5_1080px.jpg",
+        "image2": "shopify:\/\/shop_images\/LF_Brand_EXT_CokitaAle-4x5_1080px.jpg",
+        "subtitle": "",
+        "title": "",
+        "text": "<p>Quando saímos em busca de produtos com proteção e conforto para ampliar as nossas possibilidades de lugares e momentos para explorar juntos, percebemos que sobrava estilo mas faltava funcionalidade. <\/p><p>Foi assim que nasceu a Baut. Nasceu para proporcionar proteção e conforto da maneira que eles precisam e merecem. Nasceu para ampliar os momentos que passamos ao lado deles. Nasceu por elas, para elas e milhões de outros peludos cheios de energia para explorar a vida lá fora e descobrir coisas novas!<\/p><p>Este propósito está refletido em qualquer produto que desenvolvemos: nossa dedicação e preocupação genuína para proporcionar proteção e conforto estão presentes em cada detalhe.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "right",
+        "alt": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow",
+    "634ece3d-2e72-4aa5-b5d1-f67f991f1ce5"
+  ]
+}

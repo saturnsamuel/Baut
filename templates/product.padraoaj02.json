@@ -1,0 +1,122 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": false,
+            "color_swatches": true
+          }
+        },
+        "9c4ab1cd-fa87-4423-b6d8-f6b9cabb07a9": {
+          "type": "size_chart",
+          "settings": {
+            "size_chart": "tabela-aj"
+          }
+        },
+        "980ed704-bae6-435c-a187-3d83d252f44d": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "truck",
+            "text": "{{ product.metafields.custom.basic_nav_info.value.msg_frete.value }}"
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "package",
+            "text": "{{ product.metafields.custom.basic_nav_info.value.msg_troca.value }}"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false
+          }
+        }
+      },
+      "block_order": [
+        "price",
+        "variant_picker",
+        "9c4ab1cd-fa87-4423-b6d8-f6b9cabb07a9",
+        "980ed704-bae6-435c-a187-3d83d252f44d",
+        "sales_point",
+        "buy_buttons"
+      ],
+      "settings": {
+        "product_image_size": "medium",
+        "product_image_type": "slider",
+        "thumbnail_height": "fixed",
+        "product_zoom_enable": false,
+        "enable_video_looping": false,
+        "product_video_style": "muted",
+        "sku_enable": false
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "09a20e0d-eb24-4017-aba2-f4f384eddf53": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "fb67cdf5-977d-4689-8a87-ac62dccd3fc5": {
+          "type": "tab",
+          "settings": {
+            "title": "{{ product.metafields.custom.basic_nav_info.value.aba_02.value }}",
+            "content": "",
+            "page": "frete"
+          }
+        }
+      },
+      "block_order": [
+        "09a20e0d-eb24-4017-aba2-f4f384eddf53",
+        "fb67cdf5-977d-4689-8a87-ac62dccd3fc5"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "79b45d64-1238-4eeb-bed0-97c17064fc17": {
+      "type": "featured-collection-slider",
+      "settings": {
+        "title": "{{ product.metafields.custom.basic_nav_info.value.recommendations_header.value }}",
+        "description": "",
+        "home_featured_products": "{{ product.metafields.custom.product_specifics.value.cltc_reco.value }}",
+        "per_row": "small",
+        "alt": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "product_recommendations_heading": "",
+        "related_count": 6
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {}
+    }
+  },
+  "order": [
+    "main",
+    "sub",
+    "79b45d64-1238-4eeb-bed0-97c17064fc17",
+    "product-recommendations",
+    "collection-return"
+  ]
+}

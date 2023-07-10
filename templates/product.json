@@ -1,0 +1,165 @@
+{
+  "sections": {
+    "faf50ac3-5a94-4ba4-bebe-f93f92b5e80e": {
+      "type": "advanced-content",
+      "blocks": {
+        "template--16710951108832__faf50ac3-5a94-4ba4-bebe-f93f92b5e80e-167225877673288eb9-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artboard_147_f49bb6fd-09e0-46e2-9b85-45b5fb5dd82d.png",
+            "link": "",
+            "width": "25%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16710951108832__faf50ac3-5a94-4ba4-bebe-f93f92b5e80e-167225877673288eb9-0"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "alt": false
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": false,
+            "color_swatches": true
+          }
+        },
+        "9c4ab1cd-fa87-4423-b6d8-f6b9cabb07a9": {
+          "type": "size_chart",
+          "settings": {
+            "size_chart": ""
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "package",
+            "text": "Troque em até 30 dias, sem sair de casa."
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false
+          }
+        },
+        "21ad86b2-a0ef-4f82-b408-7db8a154890f": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "f32775ee-6226-4681-9d56-aa65bc75a2ae": {
+          "type": "tab",
+          "settings": {
+            "title": "Consulte o Frete",
+            "content": "",
+            "page": "frete"
+          }
+        }
+      },
+      "block_order": [
+        "price",
+        "variant_picker",
+        "9c4ab1cd-fa87-4423-b6d8-f6b9cabb07a9",
+        "sales_point",
+        "buy_buttons",
+        "21ad86b2-a0ef-4f82-b408-7db8a154890f",
+        "f32775ee-6226-4681-9d56-aa65bc75a2ae"
+      ],
+      "settings": {
+        "product_image_size": "large",
+        "product_image_type": "stacked",
+        "thumbnail_height": "flexible",
+        "product_zoom_enable": true,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
+      }
+    },
+    "425760b4-b4e2-4f5e-ae1a-ed2118c98b1e": {
+      "type": "advanced-content",
+      "blocks": {
+        "template--16710951108832__425760b4-b4e2-4f5e-ae1a-ed2118c98b1e-1672657412449c8ade-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Asset_23.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16710951108832__425760b4-b4e2-4f5e-ae1a-ed2118c98b1e-1672657412449c8ade-0"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "alt": false
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "blocks": {
+        "09a20e0d-eb24-4017-aba2-f4f384eddf53": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "fb67cdf5-977d-4689-8a87-ac62dccd3fc5": {
+          "type": "tab",
+          "settings": {
+            "title": "Consulte o Frete",
+            "content": "",
+            "page": "frete"
+          }
+        }
+      },
+      "block_order": [
+        "09a20e0d-eb24-4017-aba2-f4f384eddf53",
+        "fb67cdf5-977d-4689-8a87-ac62dccd3fc5"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Continue Explorando",
+        "related_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {}
+    }
+  },
+  "order": [
+    "faf50ac3-5a94-4ba4-bebe-f93f92b5e80e",
+    "main",
+    "425760b4-b4e2-4f5e-ae1a-ed2118c98b1e",
+    "sub",
+    "product-recommendations",
+    "collection-return"
+  ]
+}

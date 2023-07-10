@@ -1,0 +1,134 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": false,
+            "color_swatches": true
+          }
+        },
+        "c7b10945-3414-4cd0-b44e-f3c084a75b2d": {
+          "type": "size_chart",
+          "settings": {
+            "size_chart": "tabela-leo-popup"
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "package",
+            "text": "Troque em até 30 dias, sem sair de casa."
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false
+          }
+        }
+      },
+      "block_order": [
+        "price",
+        "variant_picker",
+        "c7b10945-3414-4cd0-b44e-f3c084a75b2d",
+        "sales_point",
+        "buy_buttons"
+      ],
+      "settings": {
+        "product_image_size": "large",
+        "product_image_type": "stacked",
+        "thumbnail_height": "flexible",
+        "product_zoom_enable": false,
+        "enable_video_looping": false,
+        "product_video_style": "muted",
+        "sku_enable": false
+      }
+    },
+    "dba8c403-c699-494c-b799-2f7a72eb6023": {
+      "type": "advanced-content",
+      "blocks": {
+        "template--16729514410208__dba8c403-c699-494c-b799-2f7a72eb6023-167247840317d817b2-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Asset_3_436c5b9f-ea08-455c-b935-9ca713418d2e.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16729514410208__dba8c403-c699-494c-b799-2f7a72eb6023-167247840317d817b2-0"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "alt": false
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "09a20e0d-eb24-4017-aba2-f4f384eddf53": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "fb67cdf5-977d-4689-8a87-ac62dccd3fc5": {
+          "type": "tab",
+          "settings": {
+            "title": "Consulte o Frete",
+            "content": "",
+            "page": "frete"
+          }
+        },
+        "bc774745-3c97-4c5b-bca2-8afcf7a261f4": {
+          "type": "tab",
+          "settings": {
+            "title": "Tabela de Tamanhos",
+            "content": "",
+            "page": "tabela-leo"
+          }
+        }
+      },
+      "block_order": [
+        "09a20e0d-eb24-4017-aba2-f4f384eddf53",
+        "fb67cdf5-977d-4689-8a87-ac62dccd3fc5",
+        "bc774745-3c97-4c5b-bca2-8afcf7a261f4"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Continue Explorando",
+        "related_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {}
+    }
+  },
+  "order": [
+    "main",
+    "dba8c403-c699-494c-b799-2f7a72eb6023",
+    "sub",
+    "product-recommendations",
+    "collection-return"
+  ]
+}

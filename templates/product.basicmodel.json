@@ -1,0 +1,120 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": false,
+            "color_swatches": true
+          }
+        },
+        "61573ea3-9cd8-40fd-9777-027cb830382a": {
+          "type": "size_chart",
+          "source": "{{ product.metafields.custom.product_specifics.value }}",
+          "settings": {
+            "size_chart": ""
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "package",
+            "text": "Troque em até 30 dias, sem sair de casa."
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false
+          }
+        },
+        "21ad86b2-a0ef-4f82-b408-7db8a154890f": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "f32775ee-6226-4681-9d56-aa65bc75a2ae": {
+          "type": "tab",
+          "settings": {
+            "title": "Consulte o Frete",
+            "content": "",
+            "page": "frete"
+          }
+        }
+      },
+      "block_order": [
+        "price",
+        "variant_picker",
+        "61573ea3-9cd8-40fd-9777-027cb830382a",
+        "sales_point",
+        "buy_buttons",
+        "21ad86b2-a0ef-4f82-b408-7db8a154890f",
+        "f32775ee-6226-4681-9d56-aa65bc75a2ae"
+      ],
+      "settings": {
+        "product_image_size": "large",
+        "product_image_type": "stacked",
+        "thumbnail_height": "flexible",
+        "product_zoom_enable": true,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "blocks": {
+        "09a20e0d-eb24-4017-aba2-f4f384eddf53": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "fb67cdf5-977d-4689-8a87-ac62dccd3fc5": {
+          "type": "tab",
+          "settings": {
+            "title": "Consulte o Frete",
+            "content": "",
+            "page": "frete"
+          }
+        }
+      },
+      "block_order": [
+        "09a20e0d-eb24-4017-aba2-f4f384eddf53",
+        "fb67cdf5-977d-4689-8a87-ac62dccd3fc5"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Continue Explorando",
+        "related_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {}
+    }
+  },
+  "order": [
+    "main",
+    "sub",
+    "product-recommendations",
+    "collection-return"
+  ]
+}

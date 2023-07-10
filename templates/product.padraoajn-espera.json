@@ -1,0 +1,209 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "4c57c779-1d01-42cd-8a28-e1ce398ec7be": {
+          "type": "separator",
+          "settings": {}
+        },
+        "9e42655e-d6e2-45cc-a192-ffeaa8177cfb": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "ATENÇÃO!  O Prazo para entrega é de 50 dias + frete para sua região. Consulte o frete logo abaixo da descrição do produto."
+          }
+        },
+        "31f48fc7-9b9d-45b6-b82c-4c91c719709e": {
+          "type": "separator",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": false,
+            "color_swatches": true
+          }
+        },
+        "9c4ab1cd-fa87-4423-b6d8-f6b9cabb07a9": {
+          "type": "size_chart",
+          "disabled": true,
+          "settings": {
+            "size_chart": ""
+          }
+        },
+        "2b8625d5-5a0e-4433-9635-2fe260e557ae": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "truck",
+            "text": "{{ product.metafields.custom.basic_nav_info.value.msg_frete.value }}"
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "package",
+            "text": "{{ product.metafields.custom.basic_nav_info.value.msg_troca.value }}"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false
+          }
+        }
+      },
+      "block_order": [
+        "price",
+        "4c57c779-1d01-42cd-8a28-e1ce398ec7be",
+        "9e42655e-d6e2-45cc-a192-ffeaa8177cfb",
+        "31f48fc7-9b9d-45b6-b82c-4c91c719709e",
+        "variant_picker",
+        "9c4ab1cd-fa87-4423-b6d8-f6b9cabb07a9",
+        "2b8625d5-5a0e-4433-9635-2fe260e557ae",
+        "sales_point",
+        "buy_buttons"
+      ],
+      "custom_css": [
+        "div.product__main-photos {padding-block-start: 0px; margin-top: 0px; margin-bottom: 0px;}",
+        "h1.product-single__title {font-size: 20px;}",
+        "span.product__price {font-size: 21px;}",
+        "label.variant__label {font-weight: bold;}",
+        "button.btn.btn--full.add-to-cart {mergin-bottom: -100px;}"
+      ],
+      "settings": {
+        "product_image_size": "medium",
+        "product_image_type": "slider",
+        "thumbnail_height": "flexible",
+        "product_zoom_enable": true,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "09a20e0d-eb24-4017-aba2-f4f384eddf53": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "fb67cdf5-977d-4689-8a87-ac62dccd3fc5": {
+          "type": "tab",
+          "settings": {
+            "title": "{{ product.metafields.custom.basic_nav_info.value.aba_02.value }}",
+            "content": "<p><strong>ATENÇÃO<\/strong>: produto indisponível para envio imediato. O envio será  realizado em até <strong>50<\/strong><em><strong> DIAS.<\/strong><\/em><\/p>",
+            "page": "frete"
+          }
+        }
+      },
+      "block_order": [
+        "09a20e0d-eb24-4017-aba2-f4f384eddf53",
+        "fb67cdf5-977d-4689-8a87-ac62dccd3fc5"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "edfec95d-1fe7-4c82-8db0-97697e86e03a": {
+      "type": "hero-animated",
+      "blocks": {
+        "template--16758528671968__edfec95d-1fe7-4c82-8db0-97697e86e03a-1675984988b996233a-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/site-temp-03.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/site-temp-03.jpg"
+          }
+        },
+        "template--16758528671968__edfec95d-1fe7-4c82-8db0-97697e86e03a-1675984988b996233a-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/site-temp-02.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/site-temp-02.jpg"
+          }
+        },
+        "9dcb62cb-8d66-4ba0-996c-223292a3c87d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/site-temp-04.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/site-temp-04.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--16758528671968__edfec95d-1fe7-4c82-8db0-97697e86e03a-1675984988b996233a-0",
+        "template--16758528671968__edfec95d-1fe7-4c82-8db0-97697e86e03a-1675984988b996233a-1",
+        "9dcb62cb-8d66-4ba0-996c-223292a3c87d"
+      ],
+      "settings": {
+        "style": "gif",
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link": "",
+        "link_text": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "desktop_size": 0,
+        "mobile_size": 0
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "product_recommendations_heading": "Continue Explorando",
+        "related_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {}
+    },
+    "6308df9c-1820-4122-afee-956eaab17f3a": {
+      "type": "featured-collection",
+      "custom_css": [
+        "div.grid-product__title {font-size: 12px; margin-right: 10px;}"
+      ],
+      "settings": {
+        "title": "{{ product.metafields.custom.product_specifics.value.prdt_reco_custom_header.value }}",
+        "description": "",
+        "home_featured_products": "{{ product.metafields.custom.product_specifics.value.prdt_recom.value }}",
+        "rows": 2,
+        "per_row_desktop": 3,
+        "per_row_mobile": "2-flush",
+        "view_all": false,
+        "alt": false
+      }
+    },
+    "8d9c8e6a-5801-466d-97a0-c701d9f93796": {
+      "type": "featured-collection-slider",
+      "settings": {
+        "title": "{{ product.metafields.custom.basic_nav_info.value.recommendations_header.value }}",
+        "description": "",
+        "home_featured_products": "{{ product.metafields.custom.product_specifics.value.cltc_reco.value }}",
+        "per_row": "small",
+        "alt": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "sub",
+    "edfec95d-1fe7-4c82-8db0-97697e86e03a",
+    "product-recommendations",
+    "collection-return",
+    "6308df9c-1820-4122-afee-956eaab17f3a",
+    "8d9c8e6a-5801-466d-97a0-c701d9f93796"
+  ]
+}

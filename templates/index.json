@@ -1,0 +1,208 @@
+{
+  "sections": {
+    "addfd8f2-5f2a-4954-9469-73bc852778b7": {
+      "type": "hero-animated",
+      "disabled": true,
+      "blocks": {
+        "template--16710950813920__addfd8f2-5f2a-4954-9469-73bc852778b7-16771979187c2fa6e7-0": {
+          "type": "image",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "template--16710950813920__addfd8f2-5f2a-4954-9469-73bc852778b7-16771979187c2fa6e7-0"
+      ],
+      "settings": {
+        "style": "gif",
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link": "shopify:\/\/products\/capadechuva-combate",
+        "link_text": "Comprar",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "desktop_size": 0,
+        "mobile_size": 0
+      }
+    },
+    "58267865-29bb-46fa-8087-7a8d0e15434d": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Chegou NUT®",
+        "title_size": 57,
+        "subheading": "",
+        "link_text": "Comprar",
+        "link": "shopify:\/\/products\/nut",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-bottom horizontal-center",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c71966e8339843f88fdfb933de04ea0c.mp4",
+        "section_height": "850px",
+        "mobile_height": "auto"
+      }
+    },
+    "3811a2de-ea3d-4a15-a630-6b6dd008bbc9": {
+      "type": "hero-animated",
+      "blocks": {
+        "template--16710950813920__3811a2de-ea3d-4a15-a630-6b6dd008bbc9-167598292028f0dc03-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CAPA-ANJINHO.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/CAPA-ANJINHO.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--16710950813920__3811a2de-ea3d-4a15-a630-6b6dd008bbc9-167598292028f0dc03-0"
+      ],
+      "settings": {
+        "style": "gif",
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link": "shopify:\/\/products\/anjinho",
+        "link_text": "Comprar",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "desktop_size": 0,
+        "mobile_size": 0
+      }
+    },
+    "d2640e9d-278f-45bd-91bc-475037b38ca8": {
+      "type": "hero-animated",
+      "disabled": true,
+      "blocks": {
+        "template--16710950813920__d2640e9d-278f-45bd-91bc-475037b38ca8-16747701110f372590-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BT-NT-0Base-Product-ETD01-Floresta-Variantes-All-Fechadas-LogoBTApresenta-Top-9x16-900px.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/BT-NT-0Base-Product-ETD01-Floresta-Variantes-All-Fechadas-LogoBTApresenta-Top-9x16-900px.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--16710950813920__d2640e9d-278f-45bd-91bc-475037b38ca8-16747701110f372590-0"
+      ],
+      "settings": {
+        "style": "gif",
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link": "shopify:\/\/products\/nut",
+        "link_text": "Comprar",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-bottom horizontal-center",
+        "desktop_size": 0,
+        "mobile_size": 0
+      }
+    },
+    "2e331395-a2cc-4af7-bcf7-e15db0af8edf": {
+      "type": "hero-animated",
+      "blocks": {
+        "template--16710950813920__2e331395-a2cc-4af7-bcf7-e15db0af8edf-1672341386dd46ae82-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BT_HomeCapa02_f6883d34-fa8d-419e-8cc9-070807d39308.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--16710950813920__2e331395-a2cc-4af7-bcf7-e15db0af8edf-1672341386dd46ae82-0"
+      ],
+      "settings": {
+        "style": "gif",
+        "title": "#DESCOBRIR\n#CONQUISTAR\n#EXPLORAR JUNTOS",
+        "title_size": 68,
+        "subheading": "",
+        "link": "shopify:\/\/pages\/historia",
+        "link_text": "Conheça nossa história",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "desktop_size": 0,
+        "mobile_size": 0
+      }
+    },
+    "bd4256c8-af28-4213-bc24-cb03e4131bbb": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16710950813920__bd4256c8-af28-4213-bc24-cb03e4131bbb-1672846914e315b7f7-0": {
+          "type": "image",
+          "settings": {
+            "title": "Linda, Leve e Resistente",
+            "title_size": 91,
+            "subheading": "",
+            "link": "shopify:\/\/products\/guia-para-cachorro-anjo",
+            "link_text": "Eu Quero",
+            "color_accent": "#005a6f",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/purple02-v04.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/purple02-v04.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--16710950813920__bd4256c8-af28-4213-bc24-cb03e4131bbb-1672846914e315b7f7-0"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7
+      }
+    },
+    "f24ff388-c377-412c-8dc8-afead9d17ac0": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Inspiração, Proteção e Conforto Para Explorar a Vida Juntos!",
+        "description": "",
+        "home_featured_products": "all",
+        "rows": 2,
+        "per_row_desktop": 3,
+        "per_row_mobile": "1",
+        "view_all": true,
+        "alt": false
+      }
+    },
+    "62ab110c-e7ba-4b02-929b-980b0eb7192a": {
+      "type": "advanced-content",
+      "blocks": {
+        "template--16710950813920__62ab110c-e7ba-4b02-929b-980b0eb7192a-1672341387c9f0a22e-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1-Baut_Logos_BautTagline-Horizontal-Main_7d6f9bae-c83a-43e2-a86b-b0d389d43c35.png",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "template--16710950813920__62ab110c-e7ba-4b02-929b-980b0eb7192a-1672341387c9f0a22e-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h6>BAUT<\/h6><p>A conjugação do verbo construir em alemão ou o chamado para sair, explorar e aproveitar a vida ao seu lado.<\/p>\n<p>O som que acompanha o olhar que te admira e o rabo que abana e te chama para colecionar momentos memoráveis.<\/p>\n<p>O convite para conquistar e construir juntos, uma relação cada vez mais forte, que vence até mesmo a barreira da comunicação entre as espécies porque é feita de amor e de atitudes que valem mais do que mil palavras.<\/p>\n<p>Baut. Explorar, Descobrir e Construir Juntos!<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16710950813920__62ab110c-e7ba-4b02-929b-980b0eb7192a-1672341387c9f0a22e-0",
+        "template--16710950813920__62ab110c-e7ba-4b02-929b-980b0eb7192a-1672341387c9f0a22e-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "alt": false
+      }
+    }
+  },
+  "order": [
+    "addfd8f2-5f2a-4954-9469-73bc852778b7",
+    "58267865-29bb-46fa-8087-7a8d0e15434d",
+    "3811a2de-ea3d-4a15-a630-6b6dd008bbc9",
+    "d2640e9d-278f-45bd-91bc-475037b38ca8",
+    "2e331395-a2cc-4af7-bcf7-e15db0af8edf",
+    "bd4256c8-af28-4213-bc24-cb03e4131bbb",
+    "f24ff388-c377-412c-8dc8-afead9d17ac0",
+    "62ab110c-e7ba-4b02-929b-980b0eb7192a"
+  ]
+}

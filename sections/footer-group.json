@@ -1,0 +1,36 @@
+{
+  "type": "footer",
+  "name": "t:sections.footer-group.name",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "settings": {
+        "show_newsletter": true,
+        "newsletter_title": "Fique por dentro das novidades e promoções!",
+        "newsletter_richtext": "",
+        "show_locale_selector": false,
+        "show_currency_selector": true,
+        "show_currency_flags": true,
+        "show_social_icons": true,
+        "menu": "footer",
+        "show_payment_icons": true,
+        "show_copyright": true,
+        "copyright_text": "Roupas e Acessórios para Animais Ltda | Avenida Rio Branco, 26 - Sobreloja. Centro. Rio de Janeiro\/RJ. CEP: 20090-001 CNPJ: 40.299.391-0001\/01 | Contato:  (11) 91869-4493"
+      }
+    },
+    "social": {
+      "type": "social",
+      "settings": {
+        "enable_home": false,
+        "enable_product": false,
+        "enable_collection": false,
+        "title": "@baut.br",
+        "description": "<p>Send us yours <a href=\"https:\/\/instagram.com\/youraccount\/\">@youraccount<\/a><\/p>"
+      }
+    }
+  },
+  "order": [
+    "social",
+    "footer"
+  ]
+}

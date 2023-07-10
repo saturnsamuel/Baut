@@ -1,0 +1,127 @@
+{
+  "sections": {
+    "9e3c0f7b-3a95-4023-8e3c-8bc0360692cb": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--16842370744544__9e3c0f7b-3a95-4023-8e3c-8bc0360692cb-1687786717d3c1ed3a-0": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--16842370744544__9e3c0f7b-3a95-4023-8e3c-8bc0360692cb-1687786717d3c1ed3a-1": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--16842370744544__9e3c0f7b-3a95-4023-8e3c-8bc0360692cb-1687786717d3c1ed3a-2": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--16842370744544__9e3c0f7b-3a95-4023-8e3c-8bc0360692cb-1687786717d3c1ed3a-3": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16842370744544__9e3c0f7b-3a95-4023-8e3c-8bc0360692cb-1687786717d3c1ed3a-0",
+        "template--16842370744544__9e3c0f7b-3a95-4023-8e3c-8bc0360692cb-1687786717d3c1ed3a-1",
+        "template--16842370744544__9e3c0f7b-3a95-4023-8e3c-8bc0360692cb-1687786717d3c1ed3a-2",
+        "template--16842370744544__9e3c0f7b-3a95-4023-8e3c-8bc0360692cb-1687786717d3c1ed3a-3"
+      ],
+      "custom_css": [
+        ".index-section {margin: 20px 0;}"
+      ],
+      "settings": {
+        "title": "",
+        "alt": false
+      }
+    },
+    "collection-header": {
+      "type": "collection-header",
+      "settings": {
+        "collection_image_enable": true,
+        "description_enable": true
+      }
+    },
+    "0ea1745c-09f9-4792-85ec-090840d0095c": {
+      "type": "featured-collection-slider",
+      "custom_css": [
+        ".index-section {margin: 20px 0;}"
+      ],
+      "settings": {
+        "title": "",
+        "description": "",
+        "home_featured_products": "{{ collection }}",
+        "per_row": "small",
+        "alt": false
+      }
+    },
+    "b367f5bc-7a61-4f86-a9af-2c82afa7e98b": {
+      "type": "hero-animated",
+      "disabled": true,
+      "blocks": {
+        "template--16710950781152__b367f5bc-7a61-4f86-a9af-2c82afa7e98b-16728342556f9b68fb-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1-Baut_Logos_BautTagline-Horizontal-Main_7d6f9bae-c83a-43e2-a86b-b0d389d43c35.png",
+            "image_mobile": "shopify:\/\/shop_images\/1-Baut_Logos_BautTagline-Horizontal-Main_7d6f9bae-c83a-43e2-a86b-b0d389d43c35.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--16710950781152__b367f5bc-7a61-4f86-a9af-2c82afa7e98b-16728342556f9b68fb-0"
+      ],
+      "settings": {
+        "style": "gif",
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link": "",
+        "link_text": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "desktop_size": 0,
+        "mobile_size": 0
+      }
+    },
+    "collection-filters": {
+      "type": "collection-filters",
+      "disabled": true,
+      "settings": {
+        "enable_color_swatches": false,
+        "collection_sort_enable": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "disabled": true,
+      "blocks": {
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "per_row_desktop": 3,
+            "per_row_mobile": "1"
+          }
+        }
+      },
+      "block_order": [
+        "product_grid"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "9e3c0f7b-3a95-4023-8e3c-8bc0360692cb",
+    "collection-header",
+    "0ea1745c-09f9-4792-85ec-090840d0095c",
+    "b367f5bc-7a61-4f86-a9af-2c82afa7e98b",
+    "collection-filters",
+    "main-collection"
+  ]
+}
