@@ -15,7 +15,8 @@
 -%}
 
 <div class="variant-wrapper small--text-center js" data-type="button">
-  <label class="variant__label{% if option.name == 'Default' or option.name == 'Title' %} hidden-label{% endif %}{% unless variant_labels %} hidden-label{% endunless %}"
+  <!-- titulo de tamanho e cor -->
+  <label  class="variant__label{% if option.name == 'Default' or option.name == 'Title' %} hidden-label{% endif %}{% unless variant_labels %} hidden-label{% endunless %}"
     for="ProductSelect-{{ section_id }}-{{ product.id }}-option-{{ forloop.index0 }}">
     {{ option.name }}
     {%- if connect_to_sizechart and is_size -%}
@@ -57,7 +58,7 @@
         class="variant-input"
         data-index="option{{ option_index }}"
         data-value="{{ value | escape }}">
-        <input type="radio"
+        <input onchange="teste()" type="radio"
           form="{{ form_id }}"
           {% if option.selected_value == value and product_available %} checked="checked"{% endif %}
           value="{{ value | escape }}"
@@ -83,7 +84,7 @@
             {{ value | escape }}
           </label>
         {%- else -%}
-          <label for="ProductSelect-{{ section_id }}-{{ product.id }}-option-{{ option.name | handleize }}-{{ value | url_encode }}"{% unless product_available %} class="disabled"{% endunless %}>{{ value | escape }}</label>
+          <label   for="ProductSelect-{{ section_id }}-{{ product.id }}-option-{{ option.name | handleize }}-{{ value | url_encode }}"{% unless product_available %} class="disabled"{% endunless %}>{{ value | escape }}</label>
         {%- endif -%}
       </div>
     {%- endfor -%}

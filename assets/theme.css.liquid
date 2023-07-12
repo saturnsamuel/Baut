@@ -10226,16 +10226,32 @@ label.tag__checkbox-wrapper{
       box-shadow:0 0 0 2px #b6b6b6;
     }
 
-.variant-input-wrap label.disabled:after{
-      border-left:2px solid;
-      border-color:#b6b6b6;
-      bottom:0;
-      content:"";
-      left:50%;
-      position:absolute;
-      top:0;
-      transform:rotate(45deg);
-    }
+border-left:2px solid;.variant-input-wrap input[type="radio"]:checked + label.disabled:after {
+  border-left: 2px solid;
+  border-color: #b6b6b6;
+  bottom: 0;
+  content: "";
+  left: 50%;
+  position: absolute;
+  top: 0;
+  transform: rotate(45deg);
+}
+
+.variant-input-wrap input[type="radio"]:checked + label.disabled:after{
+  border-left: 2px solid !important;
+  border-color: #d5d5d5 !important;
+  bottom: 0;
+  content: "";
+  left: 50%;
+  position: absolute;
+  top: 0;
+  transform: rotate(45deg);
+}
+
+.variant-input-wrap input[type="radio"]:checked + label{
+  background-color: #48D597;
+}
+
 
 .variant-input-wrap input[type=radio]:checked+label{
     box-shadow:0 0 0 2px var(--colorTextBody);

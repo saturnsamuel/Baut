@@ -54,6 +54,11 @@
   endfor
 -%}
 
+<head>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+  
+</head>
+
 <div id="ProductSection-{{ section_id }}"
   class="product-section"
   data-section-id="{{ section_id }}"
@@ -203,7 +208,36 @@
                               {{ 1999 | money }}
                             {%- endunless -%}
                           </span>
+                          
+                          <script defer>
+                              
+                            $(document).ready(function(){
+                              var teste = document.querySelector('.product__price').innerText
+                              var textoResultado = document.querySelector("#textoResultado")
+                                
+                              let valor_texto = teste.replace("R$", "",)
+                              let semVirgula = valor_texto.replace(/,/g, ".");
+                              let valor_inteiro = parseFloat(semVirgula)
+                              let parcelamento = valor_inteiro / 6
+                              textoResultado.innerText = parcelamento.toFixed(2)
+
+
+
+
+                              $(".variant-input").change(function(){
+                                var teste = document.querySelector('.product__price').innerText
+                                var textoResultado = document.querySelector("#textoResultado")
+                                  
+                                let valor_texto = teste.replace("R$", "",)
+                                let semVirgula = valor_texto.replace(/,/g, ".");
+                                let valor_inteiro = parseFloat(semVirgula)
+                                let parcelamento = valor_inteiro / 6
+                                textoResultado.innerText = parcelamento.toFixed(2)
+                              })
+                            })
+                          </script>
                         </div>
+                        <span>6x de R$ <span id="textoResultado"></span><span> Sem juros</span></span>
 
                         <div data-product-unit-wrapper class="product__unit-price{% unless current_variant.unit_price_measurement %} hide{% endunless %}">
                           {%- capture unit_price_base_unit -%}
