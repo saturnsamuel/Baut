@@ -6,7 +6,8 @@
       "blocks": {
         "template--16710950813920__addfd8f2-5f2a-4954-9469-73bc852778b7-16771979187c2fa6e7-0": {
           "type": "image",
-          "settings": {}
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -147,7 +148,8 @@
         "desktop_size": 0,
         "mobile_size": 0,
         "autoplay": false,
-        "autoplay_speed": 7
+        "autoplay_speed": 7,
+        "lazyload_images": true
       }
     },
     "f24ff388-c377-412c-8dc8-afead9d17ac0": {
@@ -191,7 +193,36 @@
       "settings": {
         "full_width": false,
         "space_around": true,
-        "alt": false
+        "alt": false,
+        "lazyload_images": true
+      }
+    },
+    "08ed1657-821d-40d2-a875-d7295b26f890": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16849607721184__08ed1657-821d-40d2-a875-d7295b26f890-1689270071bdcdac81-0": {
+          "type": "image",
+          "settings": {
+            "title": "Two line\nslide title.",
+            "title_size": 80,
+            "subheading": "And an optional subheading",
+            "link": "shopify:\/\/collections\/all-products",
+            "link_text": "Optional button",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16849607721184__08ed1657-821d-40d2-a875-d7295b26f890-1689270071bdcdac81-0"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
       }
     }
   },
@@ -203,6 +234,7 @@
     "2e331395-a2cc-4af7-bcf7-e15db0af8edf",
     "bd4256c8-af28-4213-bc24-cb03e4131bbb",
     "f24ff388-c377-412c-8dc8-afead9d17ac0",
-    "62ab110c-e7ba-4b02-929b-980b0eb7192a"
+    "62ab110c-e7ba-4b02-929b-980b0eb7192a",
+    "08ed1657-821d-40d2-a875-d7295b26f890"
   ]
 }

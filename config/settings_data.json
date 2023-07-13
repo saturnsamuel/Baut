@@ -222,7 +222,8 @@
       },
       "product-recommendations": {
         "type": "product-recommendations",
-        "settings": {}
+        "settings": {
+        }
       },
       "age-verification-popup": {
         "type": "age-verification-popup",
@@ -249,17 +250,21 @@
         }
       }
     },
-    "content_for_index": [],
+    "content_for_index": [
+
+    ],
     "blocks": {
       "6097499278999377719": {
         "type": "shopify:\/\/apps\/globo-mega-menu-navigation\/blocks\/app-embed\/7a00835e-fe40-45a5-a615-2eb4ab697b58",
         "disabled": false,
-        "settings": {}
+        "settings": {
+        }
       },
       "3651069583102627031": {
         "type": "shopify:\/\/apps\/pagbrasil\/blocks\/app-embed\/fc9c0fd8-0cbe-499c-8d7c-23b240b3a45a",
         "disabled": false,
-        "settings": {}
+        "settings": {
+        }
       }
     }
   },
