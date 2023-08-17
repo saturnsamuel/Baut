@@ -5,7 +5,8 @@
       "blocks": {
         "price": {
           "type": "price",
-          "settings": {}
+          "settings": {
+          }
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -19,7 +20,7 @@
         "61573ea3-9cd8-40fd-9777-027cb830382a": {
           "type": "size_chart",
           "settings": {
-            "size_chart": "tabela-cq"
+            "size_chart": "tabela02-coleira-cachorros-impermeavel-conquistas-baut"
           }
         },
         "sales_point": {
@@ -72,7 +73,6 @@
     },
     "sub": {
       "type": "product-full-width",
-      "disabled": true,
       "blocks": {
         "09a20e0d-eb24-4017-aba2-f4f384eddf53": {
           "type": "description",
@@ -93,6 +93,7 @@
         "09a20e0d-eb24-4017-aba2-f4f384eddf53",
         "fb67cdf5-977d-4689-8a87-ac62dccd3fc5"
       ],
+      "disabled": true,
       "settings": {
         "max_width": true
       }
@@ -107,7 +108,8 @@
     "collection-return": {
       "type": "collection-return",
       "disabled": true,
-      "settings": {}
+      "settings": {
+      }
     }
   },
   "order": [
