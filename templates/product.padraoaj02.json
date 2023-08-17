@@ -5,7 +5,8 @@
       "blocks": {
         "price": {
           "type": "price",
-          "settings": {}
+          "settings": {
+          }
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -19,7 +20,7 @@
         "9c4ab1cd-fa87-4423-b6d8-f6b9cabb07a9": {
           "type": "size_chart",
           "settings": {
-            "size_chart": "tabela-aj"
+            "size_chart": "tabela-anjo-popup"
           }
         },
         "980ed704-bae6-435c-a187-3d83d252f44d": {
@@ -109,7 +110,8 @@
     "collection-return": {
       "type": "collection-return",
       "disabled": true,
-      "settings": {}
+      "settings": {
+      }
     }
   },
   "order": [

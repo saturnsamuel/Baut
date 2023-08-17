@@ -5,7 +5,8 @@
       "blocks": {
         "price": {
           "type": "price",
-          "settings": {}
+          "settings": {
+          }
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -19,7 +20,7 @@
         "51a71106-0df6-44a0-a439-983d56726875": {
           "type": "size_chart",
           "settings": {
-            "size_chart": "tabela-aj"
+            "size_chart": "tabela-anjo-popup"
           }
         },
         "f32879d1-1e96-4bf4-85a1-4c804cf72380": {
@@ -80,7 +81,6 @@
     },
     "8e21121b-2e1d-4b6d-b686-313f5d31a1e5": {
       "type": "advanced-content",
-      "disabled": true,
       "blocks": {
         "template--16829792387296__8e21121b-2e1d-4b6d-b686-313f5d31a1e5-16854698343fdfeccc-0": {
           "type": "image",
@@ -95,6 +95,7 @@
       "block_order": [
         "template--16829792387296__8e21121b-2e1d-4b6d-b686-313f5d31a1e5-16854698343fdfeccc-0"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "space_around": false,
@@ -103,7 +104,6 @@
     },
     "sub": {
       "type": "product-full-width",
-      "disabled": true,
       "blocks": {
         "b52cf621-b7c0-41ea-b868-b95a00629a6f": {
           "type": "description",
@@ -126,6 +126,7 @@
         "b52cf621-b7c0-41ea-b868-b95a00629a6f",
         "1bd12782-aae8-4242-9da1-0163cc27bf97"
       ],
+      "disabled": true,
       "settings": {
         "max_width": true
       }
@@ -242,7 +243,8 @@
     "collection-return": {
       "type": "collection-return",
       "disabled": true,
-      "settings": {}
+      "settings": {
+      }
     },
     "167486315189087995": {
       "type": "apps",

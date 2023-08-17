@@ -5,7 +5,8 @@
       "blocks": {
         "price": {
           "type": "price",
-          "settings": {}
+          "settings": {
+          }
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -19,7 +20,7 @@
         "9c4ab1cd-fa87-4423-b6d8-f6b9cabb07a9": {
           "type": "size_chart",
           "settings": {
-            "size_chart": "tabela-aj"
+            "size_chart": "tabela-anjo-popup"
           }
         },
         "2b8625d5-5a0e-4433-9635-2fe260e557ae": {
@@ -149,7 +150,8 @@
     "collection-return": {
       "type": "collection-return",
       "disabled": true,
-      "settings": {}
+      "settings": {
+      }
     },
     "6308df9c-1820-4122-afee-956eaab17f3a": {
       "type": "featured-collection",
