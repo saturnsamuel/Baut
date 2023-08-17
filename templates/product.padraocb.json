@@ -5,7 +5,8 @@
       "blocks": {
         "price": {
           "type": "price",
-          "settings": {}
+          "settings": {
+          }
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -98,7 +99,7 @@
           "settings": {
             "title": "Tabela de Tamanhos",
             "content": "",
-            "page": "copy-of-tabela-cq"
+            "page": "tabela-coleira-impermeavel"
           }
         }
       },
@@ -121,7 +122,8 @@
     "collection-return": {
       "type": "collection-return",
       "disabled": true,
-      "settings": {}
+      "settings": {
+      }
     }
   },
   "order": [
