@@ -5,7 +5,8 @@
       "blocks": {
         "price": {
           "type": "price",
-          "settings": {}
+          "settings": {
+          }
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -124,7 +125,7 @@
           "settings": {
             "title": "Tabela de Tamanhos",
             "content": "",
-            "page": "tabela-nc-tab"
+            "page": "medidas-moletom-leve-resistente-confortavel-baut-nico"
           }
         }
       },
@@ -147,7 +148,8 @@
     "collection-return": {
       "type": "collection-return",
       "disabled": true,
-      "settings": {}
+      "settings": {
+      }
     }
   },
   "order": [
