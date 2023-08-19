@@ -5,7 +5,8 @@
       "blocks": {
         "price": {
           "type": "price",
-          "settings": {}
+          "settings": {
+          }
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -33,7 +34,7 @@
         "c7b10945-3414-4cd0-b44e-f3c084a75b2d": {
           "type": "size_chart",
           "settings": {
-            "size_chart": "tabelabeija-flor"
+            "size_chart": "tamnhos-capa-de-chuva-corta-vento-respiravel-cachorros-baut-beija-flor"
           }
         },
         "buy_buttons": {
@@ -96,7 +97,6 @@
     },
     "sub": {
       "type": "product-full-width",
-      "disabled": true,
       "blocks": {
         "09a20e0d-eb24-4017-aba2-f4f384eddf53": {
           "type": "description",
@@ -126,6 +126,7 @@
         "fb67cdf5-977d-4689-8a87-ac62dccd3fc5",
         "bc774745-3c97-4c5b-bca2-8afcf7a261f4"
       ],
+      "disabled": true,
       "settings": {
         "max_width": true
       }
@@ -140,25 +141,28 @@
     "collection-return": {
       "type": "collection-return",
       "disabled": true,
-      "settings": {}
+      "settings": {
+      }
     },
     "5a83e6b3-a542-46ca-801d-fce814959d7e": {
       "type": "hero-animated",
-      "disabled": true,
       "blocks": {
         "template--16729514410208__5a83e6b3-a542-46ca-801d-fce814959d7e-1686855175868fc7b6-0": {
           "type": "image",
-          "settings": {}
+          "settings": {
+          }
         },
         "template--16729514410208__5a83e6b3-a542-46ca-801d-fce814959d7e-1686855175868fc7b6-1": {
           "type": "image",
-          "settings": {}
+          "settings": {
+          }
         }
       },
       "block_order": [
         "template--16729514410208__5a83e6b3-a542-46ca-801d-fce814959d7e-1686855175868fc7b6-0",
         "template--16729514410208__5a83e6b3-a542-46ca-801d-fce814959d7e-1686855175868fc7b6-1"
       ],
+      "disabled": true,
       "settings": {
         "style": "gif",
         "title": "Make an\ninstant impression",
