@@ -32,7 +32,7 @@
       "settings": {
         "title": "Featured collection",
         "description": "",
-        "home_featured_products": "guiaparacachorrosanjo",
+        "home_featured_products": "anjo",
         "per_row": "small",
         "alt": false
       }
@@ -98,11 +98,11 @@
     },
     "main-collection": {
       "type": "main-collection",
-      "disabled": true,
       "blocks": {
         "collection_description": {
           "type": "collection_description",
-          "settings": {}
+          "settings": {
+          }
         },
         "product_grid": {
           "type": "product_grid",
@@ -116,7 +116,9 @@
         "collection_description",
         "product_grid"
       ],
-      "settings": {}
+      "disabled": true,
+      "settings": {
+      }
     }
   },
   "order": [

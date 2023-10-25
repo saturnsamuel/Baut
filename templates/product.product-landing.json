@@ -53,7 +53,6 @@
     },
     "af961d7d-d60d-4deb-a4d2-db2b2dea2e3a": {
       "type": "advanced-content",
-      "disabled": true,
       "blocks": {
         "6656affe-fc61-4736-a4e9-3bf34d099a2d": {
           "type": "liquid",
@@ -78,6 +77,7 @@
         "6656affe-fc61-4736-a4e9-3bf34d099a2d",
         "26f51422-6ab9-4b53-8b7e-82a23259a985"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "space_around": false,
@@ -131,7 +131,6 @@
     },
     "e108f667-5d60-42cf-a957-63ef475f4771": {
       "type": "hero-animated",
-      "disabled": true,
       "blocks": {
         "template--16710951174368__e108f667-5d60-42cf-a957-63ef475f4771-167217423705b2f76e-0": {
           "type": "image",
@@ -184,6 +183,7 @@
         "de4cdccb-9792-498d-8457-29537c044ada",
         "b6baec8f-d318-4e35-a14e-a96f4611831d"
       ],
+      "disabled": true,
       "settings": {
         "style": "gif",
         "title": "",
@@ -202,7 +202,7 @@
       "settings": {
         "title": "Guia de corda Anjo® Série 2.0",
         "description": "",
-        "home_featured_products": "guiaparacachorrosanjo",
+        "home_featured_products": "anjo",
         "per_row": "small",
         "alt": false
       }
@@ -219,7 +219,8 @@
         },
         "72cfe18c-9eac-47e1-b88d-3e003d170b5a": {
           "type": "image",
-          "settings": {}
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -300,7 +301,6 @@
     },
     "a6cc11a9-5d4e-4d9d-b95b-490635ec7240": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "template--16710951174368__a6cc11a9-5d4e-4d9d-b95b-490635ec7240-1672824667444c5c24-0": {
           "type": "image",
@@ -320,6 +320,7 @@
       "block_order": [
         "template--16710951174368__a6cc11a9-5d4e-4d9d-b95b-490635ec7240-1672824667444c5c24-0"
       ],
+      "disabled": true,
       "settings": {
         "style": "arrows",
         "desktop_size": 0,
@@ -330,7 +331,6 @@
     },
     "08669576-6b29-4564-9951-aba3d2af8ebd": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "template--16710951174368__08669576-6b29-4564-9951-aba3d2af8ebd-167282068748506c65-0": {
           "type": "image",
@@ -350,6 +350,7 @@
       "block_order": [
         "template--16710951174368__08669576-6b29-4564-9951-aba3d2af8ebd-167282068748506c65-0"
       ],
+      "disabled": true,
       "settings": {
         "style": "arrows",
         "desktop_size": 0,
@@ -360,7 +361,6 @@
     },
     "3afb8b78-c58b-4f3b-ba99-f8c97dffbaf0": {
       "type": "countdown",
-      "disabled": true,
       "blocks": {
         "template--16710951174368__3afb8b78-c58b-4f3b-ba99-f8c97dffbaf0-167282663390e792ad-0": {
           "type": "content",
@@ -389,6 +389,7 @@
         "template--16710951174368__3afb8b78-c58b-4f3b-ba99-f8c97dffbaf0-167282663390e792ad-0",
         "template--16710951174368__3afb8b78-c58b-4f3b-ba99-f8c97dffbaf0-167282663390e792ad-1"
       ],
+      "disabled": true,
       "settings": {
         "layout": "hero",
         "full_width": true,
@@ -400,11 +401,11 @@
     },
     "main": {
       "type": "main-product",
-      "disabled": true,
       "blocks": {
         "price": {
           "type": "price",
-          "settings": {}
+          "settings": {
+          }
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -460,6 +461,7 @@
         "c4421bcc-e4a0-49e9-8cd8-4f1525651214",
         "description"
       ],
+      "disabled": true,
       "settings": {
         "product_image_size": "large",
         "product_image_type": "slider",
@@ -472,7 +474,6 @@
     },
     "6a88676c-a9c8-49e8-9b7a-ad92828fdf02": {
       "type": "advanced-content",
-      "disabled": true,
       "blocks": {
         "b0056ebd-1a76-4211-8134-f183951a7505": {
           "type": "image",
@@ -486,6 +487,7 @@
       "block_order": [
         "b0056ebd-1a76-4211-8134-f183951a7505"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "space_around": false,
@@ -494,7 +496,6 @@
     },
     "3af51bf0-4e27-49d0-859b-af3c95607576": {
       "type": "testimonials",
-      "disabled": true,
       "blocks": {
         "template--16710951174368__3af51bf0-4e27-49d0-859b-af3c95607576-16722509649f422ba3-0": {
           "type": "testimonial",
@@ -547,6 +548,7 @@
         "c2972696-a334-4f10-8706-634771baec05",
         "30a43f26-be2c-486f-a3e5-b9fc1779d404"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "align_text": "center",
@@ -560,7 +562,7 @@
       "settings": {
         "title": "",
         "description": "",
-        "home_featured_products": "guiaparacachorrosanjo",
+        "home_featured_products": "anjo",
         "rows": 4,
         "per_row_desktop": 4,
         "per_row_mobile": "2-flush",
@@ -577,7 +579,8 @@
     },
     "collection-return": {
       "type": "collection-return",
-      "settings": {}
+      "settings": {
+      }
     },
     "sub": {
       "type": "product-full-width",

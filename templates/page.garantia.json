@@ -51,14 +51,15 @@
     "main": {
       "type": "main-page",
       "disabled": true,
-      "settings": {}
+      "settings": {
+      }
     },
     "87862f56-384e-47db-8d7a-940dbf9baa8b": {
       "type": "featured-collection-slider",
       "settings": {
         "title": "Guia de Corda Anjo Série 2.0",
         "description": "",
-        "home_featured_products": "guiaparacachorrosanjo",
+        "home_featured_products": "anjo",
         "per_row": "small",
         "alt": false
       }
