@@ -202,7 +202,7 @@
       "settings": {
         "title": "Guia de corda Anjo® Série 2.0",
         "description": "",
-        "home_featured_products": "anjo",
+        "home_featured_products": "guia-para-cachorro-anjo",
         "per_row": "small",
         "alt": false
       }
@@ -562,7 +562,7 @@
       "settings": {
         "title": "",
         "description": "",
-        "home_featured_products": "anjo",
+        "home_featured_products": "guia-para-cachorro-anjo",
         "rows": 4,
         "per_row_desktop": 4,
         "per_row_mobile": "2-flush",
